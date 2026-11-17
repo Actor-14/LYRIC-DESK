@@ -1,5 +1,5 @@
 // LYRIC DESK service worker — offline app shell cache
-const CACHE_NAME = 'lyric-desk-v1.6';
+const CACHE_NAME = 'lyric-desk-v1.6.1';
 const APP_SHELL = [
   './',
   './index.html',
